@@ -5,3 +5,10 @@ Modificamos.
 Soluciono un bug.
 
 A ver que pasa cuando haga merge en la develop.
+
+Voy a generar un conflicto.
+
+Soluciono un bug.
+
+
+Añado una lenea más.
