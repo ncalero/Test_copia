@@ -1,3 +1,5 @@
 Añadimos una nueva funcionalidad.
 
 Modificamos.
+
+Soluciono un bug.
