@@ -1,5 +1,7 @@
 Añadimos una nueva funcionalidad.
 
+Esta línea es de la versión nueva.
+
 Modificamos.
 
 Soluciono un bug.
