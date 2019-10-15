@@ -2,4 +2,9 @@ Añadimos una nueva funcionalidad.
 
 Modificamos.
 
+Voy a generar un conflicto.
+
 Soluciono un bug.
+
+
+Añado una lenea más.
