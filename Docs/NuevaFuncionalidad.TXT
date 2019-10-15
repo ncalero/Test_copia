@@ -2,7 +2,9 @@ Añadimos una nueva funcionalidad.
 
 Modificamos.
 
-Voy a generar un conflicto.
+Voy a generar un conflicto. ¿Si?
+
+Vamos a ver que pasa.
 
 Soluciono un bug.
 
