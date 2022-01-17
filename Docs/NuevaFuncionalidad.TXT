@@ -15,3 +15,4 @@ No estoy segura.
 
 Vamos a ver que pasa.
 
+Soluciono un bug y lo voy a subir a la master, quiero probar si un reset soft me devuelve el origin al commit anterior o no.
