@@ -3,3 +3,5 @@ Añadimos una nueva funcionalidad.
 Modificamos.
 
 Soluciono un bug.
+
+Añado nueva linea despues del stage en otra rama.
