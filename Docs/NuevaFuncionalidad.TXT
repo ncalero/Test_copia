@@ -1,8 +1,9 @@
+Inserto en el inicio
 Añadimos una nueva funcionalidad.
 
 Esta línea es de la versión 1.1 nueva.
 
-Modificamos.
+Modificamos un poco más.
 
 Soluciono un bug.
 
@@ -16,3 +17,7 @@ No estoy segura.
 Vamos a ver que pasa.
 
 Soluciono un bug y lo voy a subir a la master, quiero probar si un reset soft me devuelve el origin al commit anterior o no.
+
+prueba deshacer commit.
+
+a ver que pasa
