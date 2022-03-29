@@ -1,23 +1,5 @@
-Inserto en el inicio
 Añadimos una nueva funcionalidad.
 
-Esta línea es de la versión 1.1 nueva.
-
-Modificamos un poco más.
+Modificamos.
 
 Soluciono un bug.
-
-A ver que pasa cuando haga merge en la develop.
-
-Voy a generar un conflicto. a ver...
-
-No estoy segura.
-
-
-Vamos a ver que pasa.
-
-Soluciono un bug y lo voy a subir a la master, quiero probar si un reset soft me devuelve el origin al commit anterior o no.
-
-prueba deshacer commit.
-
-a ver que pasa
