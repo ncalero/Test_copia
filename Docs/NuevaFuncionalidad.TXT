@@ -1,5 +1,7 @@
-Añadimos una nueva funcionalidad.
+AÃ±adimos una nueva funcionalidad nueva.
 
 Modificamos.
 
 Soluciono un bug.
+Otros
+Cambios.
